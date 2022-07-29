@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ben-Bot-22
 - 👀 I’m interested in web development, meditation, and biking
 - 🌱 I’m currently learning how to make delightful web apps with JavaScript
-- 💞️ I’m open to collaborate on projects that solve real problems or brings delight (web toy)
+- 💞️ I’m open to collaborate on projects that solve real problems or bring delight (i.e. web toys)
 - 📫 Say hi at whitfieldbenjamin@gmail.com
 
 <!---
