@@ -16,6 +16,7 @@ US citizen · Remote (open to onsite) · Will relocate · Available now
   - Claude adds in deployment breaks and commits at checkpoints as part of the plan. We iterate and test in small increments to minimize complexity and keep debugging fast.
   - I challenge assumptions and ask what data is missing.
 - Claude executes and we test as we go.
+- Important context is always preserved in a /ai_docs directory and it is updated constantly.
 - I spot check the code and catch issues at our testing checkpoints.
 
 [Is Claude Code Actually Better? 1,820 Hours of Data](https://www.whitfield.dev/blog/is-claude-code-actually-better-1820-hours-of-data)
