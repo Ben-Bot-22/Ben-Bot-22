@@ -4,7 +4,7 @@ Senior Full-Stack Engineer · AI-Native
 
 US citizen · Remote (open to onsite) · Will relocate · Available now
 
-[Blog](https://www.whitfield.dev/hire-me) · [Try Reazy ↗](https://www.reazy.pro/) · [Get in touch](https://www.whitfield.dev/contact)
+[Blog](https://www.whitfield.dev/hire-me) · [Try Reazy](https://www.reazy.pro/) · [Get in touch](https://www.whitfield.dev/contact)
 
 ## How I work — AI-native
 
@@ -53,4 +53,4 @@ I am a dynamic and versatile developer. I will learn and conquer any skill neede
 
 Before software, I spent a decade as an operations-research analyst and economist for the U.S. Air Force, including at the Pentagon. I started teaching myself to build software in 2015 ([Stanford's open courseware](https://see.stanford.edu/Course), [The Odin Project](https://www.theodinproject.com/)) and went full-time in 2021: trying out mobile game development, a deep dive into web technology, followed by building and running Reazy end-to-end.
 
-[Blog](https://www.whitfield.dev/hire-me) · [Try Reazy ↗](https://www.reazy.pro/) · [Get in touch](https://www.whitfield.dev/contact)
+[Blog](https://www.whitfield.dev/hire-me) · [Try Reazy](https://www.reazy.pro/) · [Get in touch](https://www.whitfield.dev/contact)
